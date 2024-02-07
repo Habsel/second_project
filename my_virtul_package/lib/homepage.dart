@@ -41,6 +41,15 @@ class MyHomePage extends StatelessWidget {
                   letterSpacing: 5),
             ),
           ),
+          Padding(
+            padding: const EdgeInsets.fromLTRB(40, 20, 40, 20),
+            child: Text(
+              'Enoch making new push',
+              style: GoogleFonts.poppins(
+                  textStyle: const TextStyle(color: Colors.deepPurple,),
+                  letterSpacing: 1),
+            ),
+          ),
         ],
       ),
     );
