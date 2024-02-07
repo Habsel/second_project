@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495888393093",
+    "project_id": "still-sleep",
+    "storage_bucket": "still-sleep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495888393093:android:2936571317ea7f26259aec",
+        "android_client_info": {
+          "package_name": "com.example.still_sleep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWU0mcUOXET5XZFfJ1CojZetHd8lCLhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
