@@ -41,6 +41,7 @@ class MyHomePage extends StatelessWidget {
                   letterSpacing: 5),
             ),
           ),
+          Text('Together We Rise'),
         ],
       ),
     );
